@@ -1,0 +1,28 @@
+/* h1 {
+  text-align: center;
+  color: blue;
+} */
+/* body {
+  min-height: 3000px;
+} */
+
+.navbar {
+  background-color: coral;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+section.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(255, 223, 211);
+}
+
+#projects {
+  background-color: rgb(255, 223, 211);
+}
+
+footer {
+  background-color: coral;
+}
